@@ -1,6 +1,7 @@
 [![Version](https://img.shields.io/npm/v/@addono/gatsby-theme-intro?style=flat-square)](https://www.npmjs.com/package/@addono/gatsby-theme-intro)
 [![Downloads](https://img.shields.io/npm/dt/@addono/gatsby-theme-intro?style=flat-square)](https://www.npmjs.com/package/@addono/gatsby-theme-intro)
 ![License](https://img.shields.io/npm/l/@addono/gatsby-theme-intro?style=flat-square)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
 # Intro - Personal branding theme for developers
 
