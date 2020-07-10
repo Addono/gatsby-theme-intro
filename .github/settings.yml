@@ -8,7 +8,7 @@ repository:
   description: Personal branding theme for developers. Forked from wkocjan/gatsby-theme-intro as to add some additional non-BC features.
 
   # A URL with more information about the repository
-  homepage: https://gatsby-theme-intro.vercel.app
+  homepage: https://gatsby-theme-intro.aknapen.nl
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
