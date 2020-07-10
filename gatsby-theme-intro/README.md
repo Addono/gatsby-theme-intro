@@ -30,7 +30,7 @@ https://gatsby-theme-intro.aknapen.nl/
 ### Added In This Fork
 
 - Projects can have multiple icons
-- Project icons support can have links
+- Project icons can have links
 
 ## Migrating From @wkocjan/gatsby-theme-intro
 This theme is a fork from [@wkocjan/gatsby-theme-intro](https://www.npmjs.com/package/@wkocjan/gatsby-theme-intro), it introduces some non-backwards compatible changes. Hence, if you were previously using the original plugin, then you will need to make the following changes:
