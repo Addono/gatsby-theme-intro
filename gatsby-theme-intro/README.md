@@ -1,6 +1,6 @@
-[![Version](https://img.shields.io/npm/v/@wkocjan/gatsby-theme-intro)](https://www.npmjs.com/package/@wkocjan/gatsby-theme-intro)
-[![Downloads](https://img.shields.io/npm/dt/@wkocjan/gatsby-theme-intro)](https://www.npmjs.com/package/@wkocjan/gatsby-theme-intro)
-![License](https://img.shields.io/npm/l/@wkocjan/gatsby-theme-intro)
+[![Version](https://img.shields.io/npm/v/@addono/gatsby-theme-intro?style=flat-square)](https://www.npmjs.com/package/@addono/gatsby-theme-intro)
+[![Downloads](https://img.shields.io/npm/dt/@addono/gatsby-theme-intro?style=flat-square)](https://www.npmjs.com/package/@addono/gatsby-theme-intro)
+![License](https://img.shields.io/npm/l/@addono/gatsby-theme-intro?style=flat-square)
 
 # Intro - Personal branding theme for developers
 
