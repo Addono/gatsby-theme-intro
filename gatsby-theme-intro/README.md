@@ -32,8 +32,11 @@ https://gatsby-theme-intro.aknapen.nl/
 - Projects can have multiple icons
 - Project icons support can have links
 
-### Migrating From Original
+## Migrating From @wkocjan/gatsby-theme-intro
+This theme is a fork from [@wkocjan/gatsby-theme-intro](https://www.npmjs.com/package/@wkocjan/gatsby-theme-intro), it introduces some non-backwards compatible changes. Hence, if you were previously using the original plugin, then you will need to make the following changes:
 
+- Uninstall `@wkocjan/gatsby-theme-intro` and install `@addono/gatsby-theme-intro`
+- Update the plugin configuration in `gatsby-config.js`, replace `resolve: "@wkocjan/gatsby-theme-intro",` with `resolve: "@addono/gatsby-theme-intro",`.
 - Migrate the `icon` field in `content/projects.yaml` to `icons`. See the documentation below on the new format of `icons`.
 
 ## 🚀 Getting Started
