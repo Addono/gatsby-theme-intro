@@ -33,6 +33,7 @@ https://gatsby-theme-intro.aknapen.nl/
 - Project icons can have links
 
 ## Migrating From @wkocjan/gatsby-theme-intro
+
 This theme is a fork from [@wkocjan/gatsby-theme-intro](https://www.npmjs.com/package/@wkocjan/gatsby-theme-intro), it introduces some non-backwards compatible changes. Hence, if you were previously using the original plugin, then you will need to make the following changes:
 
 - Uninstall `@wkocjan/gatsby-theme-intro` and install `@addono/gatsby-theme-intro`
@@ -222,6 +223,6 @@ Intro. is a theme originally created by [Wojciech Kocjan](https://kocjan.net) fr
 
 The theme has been initially [launched](https://www.producthunt.com/posts/intro-8) in 2018 as a commercial project written in JavaScript. In 2020 it's been rewritten to Gatsby and open sourced.
 
-This is a fork, which adds some additional non-backwards compatible features. 
+This is a fork, which adds some additional non-backwards compatible features.
 
 **Thank you for using it!**
