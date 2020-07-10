@@ -79,15 +79,15 @@ Do not remove existing parameters from the file, as it may break the website.
 
 For each project you can provide:
 
-| Parameter   | Value                                                        | Is required? |
-| ----------- | ------------------------------------------------------------ | ------------ |
-| name        | Name of the project                                          | yes          |
-| url         | URL of the project                                           | no           |
-| description | Project's description                                        | no           |
-| status      | Either `in progress` or `live`                               | no           |
-| tags        | List of tags                                                 | no           |
+| Parameter   | Value                                                                                                                                              | Is required? |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| name        | Name of the project                                                                                                                                | yes          |
+| url         | URL of the project                                                                                                                                 | no           |
+| description | Project's description                                                                                                                              | no           |
+| status      | Either `in progress` or `live`                                                                                                                     | no           |
+| tags        | List of tags                                                                                                                                       | no           |
 | icons       | An object with keys `github` or `website`, value can be either an URL to add a link or the empty string (`""`) to display the icon without a link. | no           |
-| image       | Path to the image                                            | no           |
+| image       | Path to the image                                                                                                                                  | no           |
 
 #### `work-history.yaml`
 
