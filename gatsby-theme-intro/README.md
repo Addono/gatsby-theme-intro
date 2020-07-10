@@ -27,6 +27,15 @@ https://gatsby-theme-intro.aknapen.nl/
 - Uses utility-first [TailwindCSS](https://tailwindcss.com/) framework
 - Responsive design (desktop / mobile)
 
+### Added In This Fork
+
+- Projects can have multiple icons
+- Project icons support can have links
+
+### Migrating From Original
+
+- Migrate the `icon` field in `content/projects.yaml` to `icons`. See the documentation below on the new format of `icons`.
+
 ## 🚀 Getting Started
 
 ### Install theme & dependencies
