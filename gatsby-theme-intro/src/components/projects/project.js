@@ -15,7 +15,7 @@ const Project = props => {
           <Img fluid={image.childImageSharp.fluid} alt={name} />
         </div>
       )}
-      <div className="lg:flex-1">
+      <div className="lg:flex-1 w-full">
         <h4 className="font-bold">{name}</h4>
         {url && (
           <a
