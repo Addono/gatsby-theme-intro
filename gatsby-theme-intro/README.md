@@ -10,7 +10,7 @@ Tell your story by showing your skills, projects and career path.
 
 ## Preview
 
-[![Intro Theme](https://github.com/wkocjan/gatsby-theme-intro/blob/master/intro.png?raw=true)](https://www.youtube.com/watch?v=03rKddYHazo)
+[![Intro Theme](https://github.com/addono/gatsby-theme-intro/blob/master/intro.png?raw=true)](https://www.youtube.com/watch?v=03rKddYHazo)
 
 ### Live Demo
 
@@ -35,7 +35,7 @@ https://gatsby-theme-intro.aknapen.nl/
 mkdir my-site
 cd my-site
 yarn init -y
-yarn add gatsby react react-dom @wkocjan/gatsby-theme-intro
+yarn add gatsby react react-dom @addono/gatsby-theme-intro
 ```
 
 ### Enable theme
@@ -46,7 +46,7 @@ Then add the theme to your `gatsby-config.js`.
 module.exports = {
   plugins: [
     {
-      resolve: "@wkocjan/gatsby-theme-intro",
+      resolve: "@addono/gatsby-theme-intro",
       options: {
         theme: "classic",
       },
@@ -125,7 +125,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "@wkocjan/gatsby-theme-intro",
+      resolve: "@addono/gatsby-theme-intro",
       options: {
         basePath: "/",
         contentPath: "content/",
@@ -167,7 +167,7 @@ You can use Gatsby component shadowing technique to customize the theme.
 
 - All components are located in `src/components` directory.
 - All parameters accepted by components are defined using [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html). You can find types definitions in one centeral `src/types` location.
-- Code you want to overwrite should be placed within `src/@wkocjan/gatsby-theme-intro/` directory.
+- Code you want to overwrite should be placed within `src/@addono/gatsby-theme-intro/` directory.
 
 Please refer to [the official documentation](https://www.gatsbyjs.org/docs/themes/shadowing/) to learn more.
 
@@ -182,7 +182,7 @@ module.exports = {
   (...)
   plugins: [
     {
-      resolve: "@wkocjan/gatsby-theme-intro",
+      resolve: "@addono/gatsby-theme-intro",
       options: {
         (...)
         theme: {
@@ -206,8 +206,10 @@ Please remember, that after modyfying `gatsby-config.js` file it may be required
 
 ## About
 
-Intro. is a theme created by [Wojciech Kocjan](https://kocjan.net) from [Weeby Studio](https://weeby.studio).
+Intro. is a theme originally created by [Wojciech Kocjan](https://kocjan.net) from [Weeby Studio](https://weeby.studio).
 
 The theme has been initially [launched](https://www.producthunt.com/posts/intro-8) in 2018 as a commercial project written in JavaScript. In 2020 it's been rewritten to Gatsby and open sourced.
+
+This is a fork, which adds some additional non-backwards compatible features. 
 
 **Thank you for using it!**
