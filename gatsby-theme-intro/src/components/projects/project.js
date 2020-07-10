@@ -1,12 +1,13 @@
 import Img from "gatsby-image"
 import React from "react"
 import { ProjectType } from "../../types"
-import ProjectIcon from "./project-icon"
+import ProjectIcons from "./project-icons"
 import ProjectStatus from "./project-status"
 import ProjectTags from "./project-tags"
 
 const Project = props => {
-  const { name, image, url, description, status, tags, icon } = props
+  const { name, image, url, description, status, tags, icons } = props
+  console.log(icons)
   return (
     <div className="border-t-4 border-line relative flex flex-wrap bg-back-light p-4 lg:p-8 bg-no-repeat text-sm mb-6">
       {image && (
@@ -32,7 +33,7 @@ const Project = props => {
           {tags && <ProjectTags tags={tags} />}
         </ul>
 
-        {icon && <ProjectIcon icon={icon} />}
+        {icons && <ProjectIcons icons={icons} />}
       </div>
     </div>
   )

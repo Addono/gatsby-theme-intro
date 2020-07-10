@@ -1,9 +1,12 @@
 import { graphql } from "gatsby"
-import { arrayOf, shape, string, object, oneOf } from "prop-types"
+import { arrayOf, shape, string, object } from "prop-types"
 
 export const ProjectType = {
   description: string,
-  icon: oneOf(["github", "website"]),
+  icons: shape({
+    github: string,
+    website: string,
+  }),
   image: shape({
     childImageSharp: object.isRequired,
   }),
@@ -16,7 +19,10 @@ export const ProjectType = {
 export const query = graphql`
   fragment ProjectFragment on ProjectsYaml {
     description
-    icon
+    icons {
+      website
+      github
+    }
     image {
       childImageSharp {
         fluid(maxWidth: 640, quality: 85) {
