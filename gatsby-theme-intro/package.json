@@ -1,9 +1,12 @@
 {
-  "name": "@wkocjan/gatsby-theme-intro",
+  "name": "@addono/gatsby-theme-intro",
   "description": "Personal branding theme for developers",
   "version": "1.0.10",
   "main": "index.js",
   "author": "Wojciech Kocjan <wojciech@kocjan.net>",
+  "maintainers": [
+    "Adriaan Knapen <hi@aknapen.nl>"
+  ],
   "dependencies": {
     "autoprefixer": "^9.7.6",
     "color": "^3.1.2",
@@ -51,9 +54,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wkocjan/gatsby-theme-intro"
+    "url": "https://github.com/addono/gatsby-theme-intro"
   },
   "bugs": {
-    "url": "https://github.com/wkocjan/gatsby-theme-intro/issues"
+    "url": "https://github.com/addono/gatsby-theme-intro/issues"
   }
 }
