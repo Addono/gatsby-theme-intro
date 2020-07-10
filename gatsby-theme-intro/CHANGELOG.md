@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/addono/gatsby-theme-intro/compare/v2.0.0...v2.0.1) (2020-07-10)
+
+
+### Bug Fixes
+
+* **projects:** aligns icons completely to the right ([da2991f](https://github.com/addono/gatsby-theme-intro/commit/da2991f9b07feb77348ff3f668050d7a71f30fd1)), closes [#10](https://github.com/addono/gatsby-theme-intro/issues/10)
+
 # [2.0.0](https://github.com/addono/gatsby-theme-intro/compare/v1.0.10...v2.0.0) (2020-07-10)
 
 
