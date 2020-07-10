@@ -29,7 +29,6 @@
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
     "gatsby": "^2.20.12",
-    "prettier": "^1.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "semantic-release": "^17.1.1"
@@ -52,7 +51,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "format": "prettier --write \"**/*.{js,jsx,json,yaml,md}\"",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
