@@ -15,7 +15,7 @@ Tell your story by showing your skills, projects and career path.
 ### Live Demo
 
 Live demo is available at:
-https://weeby.studio/intro/preview
+https://gatsby-theme-intro.aknapen.nl/
 
 ## Features
 
