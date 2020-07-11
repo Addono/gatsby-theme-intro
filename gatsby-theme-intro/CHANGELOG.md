@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/addono/gatsby-theme-intro/compare/v2.0.2...v2.0.3) (2020-07-11)
+
+
+### Bug Fixes
+
+* **projects:** adds missing margin above the icons ([ded5b2a](https://github.com/addono/gatsby-theme-intro/commit/ded5b2a8746d0fd66c247ff79d70cdc1104dfb37))
+
 ## [2.0.2](https://github.com/addono/gatsby-theme-intro/compare/v2.0.1...v2.0.2) (2020-07-10)
 
 
