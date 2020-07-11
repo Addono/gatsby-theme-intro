@@ -9,7 +9,7 @@ const ProjectIcons = ({ icons }) => (
       .filter(([, url]) => url !== null)
       .map(([icon, url]) => (
         <li
-          className={"inline-block text-back ml-1"}
+          className={"inline-block text-back ml-1 mt-1"}
           key={icon}
           rel="noopener noreferrer"
           target="_blank"
