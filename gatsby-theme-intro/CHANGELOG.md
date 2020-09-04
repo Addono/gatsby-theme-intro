@@ -1,3 +1,10 @@
+## [2.0.4](https://github.com/addono/gatsby-theme-intro/compare/v2.0.3...v2.0.4) (2020-09-04)
+
+
+### Bug Fixes
+
+* typo in sidebar ([ad46b9c](https://github.com/addono/gatsby-theme-intro/commit/ad46b9c3c64befb9feda237a819f007f1ddc2478)), closes [wkocjan/gatsby-theme-intro#b8ae03f83c18cc0d52cfaf7d20f84807f0efe83](https://github.com/wkocjan/gatsby-theme-intro/issues/b8ae03f83c18cc0d52cfaf7d20f84807f0efe83)
+
 ## [2.0.3](https://github.com/addono/gatsby-theme-intro/compare/v2.0.2...v2.0.3) (2020-07-11)
 
 
