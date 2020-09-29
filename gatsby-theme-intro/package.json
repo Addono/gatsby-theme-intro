@@ -17,7 +17,7 @@
     "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-plugin-sharp": "^2.6.25",
     "gatsby-source-filesystem": "^2.2.2",
-    "gatsby-transformer-sharp": "^2.4.6",
+    "gatsby-transformer-sharp": "^2.5.16",
     "gatsby-transformer-yaml": "^2.3.3",
     "postcss-input-range": "^4.0.0",
     "prop-types": "^15.7.2",
