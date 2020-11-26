@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@addono/gatsby-theme-intro": "*",
-    "gatsby": "^2.27.0",
+    "gatsby": "^2.27.3",
     "react-dom": "^16.14.0",
     "react": "^16.14.0"
   }
