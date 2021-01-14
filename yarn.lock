@@ -13895,10 +13895,10 @@ selfsigned@^1.10.7:
   dependencies:
     node-forge "0.9.0"
 
-semantic-release@^17.3.0:
-  version "17.3.0"
-  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-17.3.0.tgz#121252b5bb6acc1048d7657111173b03d47502c5"
-  integrity sha512-enhDayMZRP4nWcWAMBFHHB7THRaIcRdUAZv3lxd65pXs2ttzay7IeCvRRrGayRWExtnY0ulwRz5Ycp88Dv/UeQ==
+semantic-release@^17.3.2:
+  version "17.3.2"
+  resolved "https://registry.yarnpkg.com/semantic-release/-/semantic-release-17.3.2.tgz#89c793ed64fe00b7bfe1c36bc389fb04855a4df9"
+  integrity sha512-S8ppLzFFeznDXvRGEvltuwpRT7Tb7o3gBIqaVnahi0sAzrxD/WdWZQoHOpwypzTBD7i9gCxZ+RqVpaHa9WFD3w==
   dependencies:
     "@semantic-release/commit-analyzer" "^8.0.0"
     "@semantic-release/error" "^2.2.0"
@@ -13911,7 +13911,7 @@ semantic-release@^17.3.0:
     env-ci "^5.0.0"
     execa "^4.0.0"
     figures "^3.0.0"
-    find-versions "^3.0.0"
+    find-versions "^4.0.0"
     get-stream "^5.0.0"
     git-log-parser "^1.2.0"
     hook-std "^2.0.0"
