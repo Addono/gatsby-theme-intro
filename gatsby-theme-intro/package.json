@@ -31,7 +31,7 @@
     "gatsby": "^2.32.9",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "semantic-release": "^17.4.0"
+    "semantic-release": "^17.4.1"
   },
   "peerDependencies": {
     "gatsby": "^2.20.12",
